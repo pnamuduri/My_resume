@@ -1,0 +1,8 @@
+title: "Pardha — Resume"
+description: "Professional profile, experience, and projects"
+theme: jekyll-theme-cayman
+# Set your Google Analytics property if you have one:
+# google_analytics: G-XXXXXXXXXX
+# Site-wide social links (optional)
+github:
+  is_project_page: false
